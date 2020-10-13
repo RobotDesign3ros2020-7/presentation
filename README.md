@@ -26,3 +26,4 @@ crane_x7を使用して、アームに持たせたハンコで朱肉を付け、
      
   
 ［スケジュール］
+ https://docs.google.com/spreadsheets/d/1Ju7QSeMSylbAo2rqOABpf2jgklO-0Byz4cAjCXTRpTs/edit?usp=sharing
