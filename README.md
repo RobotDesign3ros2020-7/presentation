@@ -48,7 +48,17 @@ ___
 
 # スケジュール
 
- https://docs.google.com/spreadsheets/d/1Ju7QSeMSylbAo2rqOABpf2jgklO-0Byz4cAjCXTRpTs/edit?usp=sharing
+1.ハンコのモデル作成（10/26 ~ 11/1）
+
+2.朱肉のモデル作成（10/26 ~ 11/1）
+
+3.アームを動かすプログラムの作成（10/26 ~ 11/15）
+
+4.ハンドを開閉するプログラムの作成（10/26 ~ 11/15）
+
+それ以外でやるべきこと
+
+1.中間発表用のスライド作成
  
  
  
