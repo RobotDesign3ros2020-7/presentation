@@ -2,7 +2,6 @@
 
 # テーマ
 センサを用い、ハンコ等を認識し、判を押す。
-1. [image](https://user-images.githubusercontent.com/53420696/96375700-771bde80-11b5-11eb-9185-33d1afaa2ae9.png)
  
 
 
