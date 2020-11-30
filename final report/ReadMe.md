@@ -18,8 +18,7 @@
 1. 朱肉
 1. 用紙
 1. マット
-
-1．realsense
+realsense
 
 
 
